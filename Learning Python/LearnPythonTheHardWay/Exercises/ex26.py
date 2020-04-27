@@ -1,3 +1,5 @@
+#Fix mistakes the author created in ex24 and ex25
+
 def break_words(stuff):
     """This function will break up words for us."""
     words = stuff.split(' ')
