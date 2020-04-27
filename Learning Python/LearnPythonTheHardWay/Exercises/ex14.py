@@ -1,3 +1,5 @@
+#Prompting and passing args
+
 from sys import argv
 
 #For command line

@@ -1,3 +1,5 @@
+#Parameters, unpacking, variables
+
 from sys import argv
 
 #Need to run from command-line

@@ -1,3 +1,5 @@
+#Using input() to get input
+
 #When using python 3.x add the "end" argument to the print function
 #Whatever you provide as the "end" argument is going to be the terminator
 
